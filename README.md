@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer focused on building reliable, scalable production systems across the full stack. I work across API design, data pipeline architecture, performance engineering, and AI integration, taking systems from design through deployment.<br><br>Currently a Full Stack Software Engineer at AP Northeast Management, a real estate and finance management firm, while completing my M.S. in Computer Science at Pace University (GPA 3.73, May 2026).<br><br>I contribute to open source fintech infrastructure used in production at major financial institutions, working across Scala backend systems, TypeScript, and React with full unit test coverage and forward-compatible test architecture. Contributions span backend feature implementation, schema design, and test architecture across production codebases used in high-throughput trading and risk management environments.<br><br><br>Portfolio: vivek-jariwala.vercel.app<br>LinkedIn: linkedin.com/in/vivek-jariwala01<br>Email: vivekjariwala50@gmail.com
+Software engineer focused on building reliable, scalable production systems across the full stack. I work across API design, data pipeline architecture, performance engineering, and AI integration, taking systems from design through deployment.<br><br>Currently a Full Stack Software Engineer at AP Northeast Management, a real estate and finance management firm, while completing my M.S. in Computer Science at Pace University (GPA 3.73, May 2026).<br><br>I contribute to open source fintech infrastructure used in production at major financial institutions, working across Scala backend systems, TypeScript, and React with full unit test coverage and forward-compatible test architecture. Contributions span backend feature implementation, schema design, and test architecture across production codebases used in high-throughput trading and risk management environments.<br><br><br>Portfolio: [vivek-jariwala.vercel.app](https://vivek-jariwala.vercel.app)<br>LinkedIn: [linkedin.com/in/vivek-jariwala01](https://www.linkedin.com/in/vivek-jariwala01)<br>Email: vivekjariwala50@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ Software engineer focused on building reliable, scalable production systems acro
 ![](https://streak-stats.demolab.com/?user=VivekJariwala50&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VivekJariwala50&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VivekJariwala50&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=VivekJariwala50&icon=0&color=0)](https://visitcount.itsvg.in)
