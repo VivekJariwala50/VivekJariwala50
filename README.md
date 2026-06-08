@@ -1,4 +1,4 @@
-# Vivek Jariwala:
+# Vivek Jariwala
 Software engineer focused on building reliable, scalable production systems across the full stack. I work across API design, data pipeline architecture, performance engineering, and AI integration, taking systems from design through deployment.<br><br>Currently a Full Stack Software Engineer at AP Northeast Management, a real estate and finance management firm, while completing my M.S. in Computer Science at Pace University (GPA 3.73, May 2026).<br><br>I contribute to open source fintech infrastructure used in production at major financial institutions, working across Scala backend systems, TypeScript, and React with full unit test coverage and forward-compatible test architecture. Contributions span backend feature implementation, schema design, and test architecture across production codebases used in high-throughput trading and risk management environments.<br><br><br>Portfolio: vivek-jariwala.vercel.app<br>LinkedIn: linkedin.com/in/vivek-jariwala01<br>Email: vivekjariwala50@gmail.com
 
 
